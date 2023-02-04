@@ -1,3 +1,4 @@
 git remote update
 git remote update
 touch
+git pull
